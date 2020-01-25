@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created following the instructions here: [Building an Electron Application with create-react-app](https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/), with some additional changes to use `yarn` and `typescript`.
+
 ## Available Scripts
 
 In the project directory, you can run:
